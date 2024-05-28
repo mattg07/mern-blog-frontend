@@ -1,3 +1,3 @@
-const backendURL = "https://mern-blog-backend-lqt8.onrender.com/";
+const backendURL = "https://mern-blog-backend-ajnf.onrender.com";
 
 export default backendURL;
